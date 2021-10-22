@@ -1,0 +1,64 @@
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\appsettings.json
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\Okta.API.exe
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\Okta.API.deps.json
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\Okta.API.runtimeconfig.json
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\Okta.API.runtimeconfig.dev.json
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\Okta.API.dll
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\ref\Okta.API.dll
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\Okta.API.pdb
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\Okta.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\Okta.API.AssemblyInfoInputs.cache
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\Okta.API.AssemblyInfo.cs
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\Okta.API.csproj.CoreCompileInputs.cache
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\Okta.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\staticwebassets\Okta.API.StaticWebAssets.Manifest.cache
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\staticwebassets\Okta.API.StaticWebAssets.xml
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\scopedcss\bundle\Okta.API.styles.css
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\Okta.API.RazorTargetAssemblyInfo.cache
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\Okta.API.dll
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\ref\Okta.API.dll
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\Okta.API.pdb
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\Okta.API.genruntimeconfig.cache
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\RateLimiter.dll
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\RestSharp.dll
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\RestSharpHelper.dll
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\Okta.Core.dll
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\Okta.Infrastructure.dll
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\Okta.Core.pdb
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\bin\Debug\net5.0\Okta.Infrastructure.pdb
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\Okta.API.csproj.CopyComplete
+D:\Shoaib\1. Learning\18. Clean Architechture\CleanArchitechtureSol\Okta.API\obj\Debug\net5.0\Okta.API.csproj.AssemblyReference.cache
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\appsettings.json
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\Okta.API.exe
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\Okta.API.deps.json
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\Okta.API.runtimeconfig.json
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\Okta.API.runtimeconfig.dev.json
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\Okta.API.dll
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\ref\Okta.API.dll
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\Okta.API.pdb
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\RateLimiter.dll
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\RestSharp.dll
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\RestSharpHelper.dll
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\Okta.Core.dll
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\Okta.Infrastructure.dll
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\Okta.Core.pdb
+D:\Ziaur\IncedoOkta-main\Okta.API\bin\Debug\net5.0\Okta.Infrastructure.pdb
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\Okta.API.csproj.AssemblyReference.cache
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\Okta.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\Okta.API.AssemblyInfoInputs.cache
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\Okta.API.AssemblyInfo.cs
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\Okta.API.csproj.CoreCompileInputs.cache
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\Okta.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\staticwebassets\Okta.API.StaticWebAssets.Manifest.cache
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\staticwebassets\Okta.API.StaticWebAssets.xml
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\scopedcss\bundle\Okta.API.styles.css
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\Okta.API.RazorTargetAssemblyInfo.cache
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\Okta.API.csproj.CopyComplete
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\Okta.API.dll
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\ref\Okta.API.dll
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\Okta.API.pdb
+D:\Ziaur\IncedoOkta-main\Okta.API\obj\Debug\net5.0\Okta.API.genruntimeconfig.cache
